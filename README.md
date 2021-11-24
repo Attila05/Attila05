@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Attila,
-- 👀 I’m interested in Data Science,
-- 🌱 I’m currently learning Data Analysm with DataCamp,
-- 💞️ I’m looking for a new job as a junior Data Analyst.
+Hi,
 
-<!---
-Attila05/Attila05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Attila. I started to learn front-end development(Coursera) and full-stack development(Odin Project) at the same time. Unfortunately, I got a full time job (not remote) in a completely different work field, but I learn as much as I can in my free time. When I finished with my tasks, I'm uploading them here. 
+
+Have a nice day!
